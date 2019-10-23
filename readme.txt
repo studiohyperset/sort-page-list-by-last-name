@@ -3,7 +3,7 @@ Contributors: studiohyperset, oqm4, ryanajarrett
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=C2KQADH2TGTS4
 Tags: wp_list_pages, page, function, list, title, plugin, name
 Requires at least: 3.0
-Tested up to: 5.1.1
+Tested up to: 5.3
 Stable tag: 1.0
 
 Sorts wp_list_pages-generated page lists by last name or, more generally, the last word of any page's title.
